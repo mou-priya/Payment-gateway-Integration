@@ -18,6 +18,6 @@ A simple website where payment gateway is integrated.
             (It supports payments using credit/debit card , UPI , wallet , netbanking. The payment gateway also sends an email and a receipt to the recipient's email-id.)
 
 
-Website link -
+Website link -https://github.com/mou-priya/Payment-gateway-Integration/tree/939ad80983e4f37197df29047756e4cafb9f1a7c
 
 Youtube video link-
