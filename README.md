@@ -20,4 +20,4 @@ A simple website where payment gateway is integrated.
 
 Website link -https://github.com/mou-priya/Payment-gateway-Integration/tree/939ad80983e4f37197df29047756e4cafb9f1a7c
 
-Youtube video link-
+Youtube video link-https://youtu.be/432G0T5kxi8
